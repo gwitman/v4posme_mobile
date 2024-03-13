@@ -4,7 +4,6 @@ plugins {
     id("kotlin-android")
     id("kotlin-kapt")
     //haciendo un comentario
-    //prueba de witman
 }
 
 android {
