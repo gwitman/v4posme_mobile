@@ -3,7 +3,8 @@ plugins {
     alias(libs.plugins.jetbrainsKotlinAndroid)
     id("kotlin-android")
     id("kotlin-kapt")
-    //haciendo un comentario para GitHub
+    //haciendo un comentario
+    //prueba de witman
 }
 
 android {
